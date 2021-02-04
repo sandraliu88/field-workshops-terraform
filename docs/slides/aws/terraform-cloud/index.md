@@ -40,13 +40,6 @@ layout: true
 - ![:scale 100%](https://hashicorp.github.io/field-workshops-assets/assets/logos/HashiCorp_Icon_Black.svg)
 ]
 
----
-name: Introductions
-# Introductions
-- Your Name
-- Job Title
-- Automation Experience
-- Favorite Text Editor
 
 ???
 **Let's start with introductions. Give us your name, job title, any automation experience, and finally your favorite text editor. There are no wrong answers here. Except for Notepad. Notepad++ is ok though.**
