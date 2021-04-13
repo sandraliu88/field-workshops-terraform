@@ -44,7 +44,7 @@ layout: true
 name: Introductions
 # Introductions
 - Your Name: Sandra Liu
-- Job Title: CSM 
+- Job Title: Customer Success Manager
 - Automation Experience
 - Favorite Text Editor
 
