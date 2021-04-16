@@ -43,10 +43,9 @@ layout: true
 ---
 name: Introductions
 # Introductions
-- Your Name: Sandra Liu
-- Job Title: Customer Success Manager
-- Automation Experience
-- Favorite Text Editor
+Sandra Liu
+Customer Success Manager
+Favorite Text Editor? 
 
 ???
 **Let's start with introductions. Give us your name, job title, any automation experience, and finally your favorite text editor. There are no wrong answers here. Except for Notepad. Notepad++ is ok though. Mine is Visual Studios Code**
@@ -100,7 +99,7 @@ class: col-2
 </div>
 
 ???
-**This is our table of contents. We have a lot of ground to cover today. The workshop will alternate between lecture and lab exercise so we don't get bored and fall asleep. We'll be taking breaks roughly every 90 minutes, with a 45 minute break for lunch.**
+**This is our table of contents. We will be covering a lot of material today. The workshop will alternate between lecture and lab exercise so hopefully today will be engaging and productive use of your time. We'll be taking breaks roughly every 90 minutes, with a 45 minute break for lunch.**
 
 Make sure your EAM or sponsor have arranged for lunch if presenting this as a full-day workshop.
 
