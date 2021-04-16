@@ -49,7 +49,7 @@ name: Introductions
 - Favorite Text Editor
 
 ???
-**Let's start with introductions. Give us your name, job title, any automation experience, and finally your favorite text editor. There are no wrong answers here. Except for Notepad. Notepad++ is ok though.**
+**Let's start with introductions. Give us your name, job title, any automation experience, and finally your favorite text editor. There are no wrong answers here. Except for Notepad. Notepad++ is ok though. Mine is Visual Studios Code**
 
 If your audience is less than 25 people you can quickly go through the room and ask everyone to introduce themselves. The text editor question is a fun ice breaker, and it also gives you a quick barometer on how skilled your students will be at writing and editing code.
 
